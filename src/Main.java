@@ -17,7 +17,7 @@ public class Main {
         System.out.printf("%s %s %n", starfish.getName(), starfish.isRunning(starfish.getFeet()));
 
         // die Tiere in Array packen, HashMap, HashList, List ---- I do not find good creative examples
-    int array[5] = new array[];
+        int array[5] = new array[];
 
         ArrayList<String> animalNameList = new ArrayList<String> ();
         animalNameList.add(dog.getName());
